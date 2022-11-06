@@ -1,5 +1,4 @@
 # DWM
-![dwm01](https://i.postimg.cc/cHqS8fwK/dwm-01.png)
 ![dwm02](https://i.postimg.cc/L8kz81YD/dwm-02.png)
 
 ---
